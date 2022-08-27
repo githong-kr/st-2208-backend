@@ -1,0 +1,5 @@
+rootProject.name = 'st-2208-backend'
+
+include(
+        ':jpa-basic'
+)
